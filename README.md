@@ -2,8 +2,9 @@
 
 Project Developed by:
 
-Mention your name
-Regnumber , college name....
+Name: Harish K
+Reg no: 712221205010
+College Name: Park College Of Engineering and Technology
 
 ### Note Keeping App
 
@@ -36,9 +37,3 @@ $ python manage.py runserver
 
 Access the admin panel at ```127.0.0.1/admin``` 
 
-Login credentials:
-
-
-Username: admin
-
-Password: admin
